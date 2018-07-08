@@ -1,0 +1,6 @@
+.idea/
+_dev/
+_ignored/
+build/
+node_modules/
+.DS_Store
